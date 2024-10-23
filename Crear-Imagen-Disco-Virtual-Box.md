@@ -5,11 +5,11 @@
 
 La ubicación está disponible en la información de la configuración de virtual box.
 
-![alt text](image.png)
+![alt text](imagenes/imagen-config.png)
 
 También podemos abrir la ubicación en el menu contextual de la máquina virtual, mostrar en el explorador.
 
-![alt text](image-1.png)
+![alt text](imagenes/imagen-mostrar-explo.png)
 
 Generalmente la ruta será algo como `C:\Users\ik_lanm\VirtualBox VMs` 
 
