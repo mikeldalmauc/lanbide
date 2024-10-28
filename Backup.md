@@ -10,7 +10,6 @@
   - [Crear un disco para el backup 💽](#crear-un-disco-para-el-backup-)
   - [Añadir y probar el script de backup 📜](#añadir-y-probar-el-script-de-backup-)
   - [Configurar el cronjob ⏱️](#configurar-el-cronjob-️)
-- [Configurar backup automático del sistema operativo](#configurar-backup-automático-del-sistema-operativo)
 
 
 # Crear disco de partición Home 🏠
@@ -151,7 +150,4 @@ Si no teneos el editor de texto Vim instalado podemos configura nano como editor
 ```bash
 export EDITOR=nano
 ```
-
-# Configurar backup automático del sistema operativo
-
 
