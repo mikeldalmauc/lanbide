@@ -287,7 +287,7 @@ Grub es el gestor de arranque de Linux. Proporciona un menú al iniciar el siste
 ```bash
 grub-install /dev/sda
 ```
-
+  
 Crea el archivo de configuración de Grub:
 
 ```bash
@@ -396,13 +396,13 @@ sudo pacman -S git
 2. Crea una carpeta *repos* en el perfil de tu usuario personal en */home/{tu-usuario}/repos*.
 
 ```bash
-mkdir -p Desktop/mikel/repos
+mkdir -p /home/mikel/repos
 ```
 
 3. Navega a la carpeta repos `cd !$`.
 
-*Nota: `!$` es un pequeño truco que se refiere al último parámetro del comando anterior. En este caso, después de usar `mkdir -p Desktop/mikel/repos`, `!$` se referirá a `Desktop/mikel/repos`, por lo que ambos comandos son equivalentes 😀:
-  * `cd Desktop/mikel/repos` es lo mismo que `cd !$`*.
+*Nota: `!$` es un pequeño truco que se refiere al último parámetro del comando anterior. En este caso, después de usar `mkdir -p /home/mikel/repos`, `!$` se referirá a `/home/mikel/repos`, por lo que ambos comandos son equivalentes 😀:
+  * `cd /home/mikel/repos` es lo mismo que `cd !$`*.
 
 4. Clona el siguiente repositorio, que es como descargarlo.
 
