@@ -1,4 +1,4 @@
-### Examen Completo de Logros en Arch Linux con Bloque SSH y Puntuación
+### Examen Instalación y actualización de sistemas operativos
 
 **Logros de Instalación de Arch Linux** (Total: 40 puntos)
 
@@ -42,6 +42,7 @@
 29. Arrancar el servicio SSH con `systemctl start sshd`. **(2 punto)**
 30. Conectarse desde el sistema Windows al servidor Linux usando un cliente SSH: `ssh mikel@196.169.10.0`. **(4 puntos)**
 31. Editar el archivo de configuración `/etc/ssh/sshd_config` en Linux para personalizar la configuración del servicio. **(5 puntos)**
+
 
 **Logros de Documentación** (Total: 30 puntos)
 

@@ -52,8 +52,6 @@ Todos los grupo de linux se pueden ver en el fichero `/etc/group`
 
 Se crea un grupo con groupadd
 
-$2 + 3 = 5$
-
 
 ### Añadir usuario a un grupo
 
