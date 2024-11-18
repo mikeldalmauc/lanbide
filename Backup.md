@@ -1,4 +1,4 @@
-- [Crear disco de partición Home 🏠](#crear-disco-de-partición-home-)
+ch·- [Crear disco de partición Home 🏠](#crear-disco-de-partición-home-)
   - [Agregar un disco a la máquina virtual 💽](#agregar-un-disco-a-la-máquina-virtual-)
   - [Crear una partición del disco 🍕](#crear-una-partición-del-disco-)
   - [Formatear el disco en Ext4](#formatear-el-disco-en-ext4)

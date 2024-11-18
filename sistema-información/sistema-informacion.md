@@ -1,7 +1,7 @@
 
 # Tarea para el 13 de noviembre
 
-1. Haz un documento respondiendo a estas preguntas.
+1. Haz un documento respondiendo a estos puntos.
 2. Una presentación del punto 5 de máximo 5 diapositivas.
 
 --- 

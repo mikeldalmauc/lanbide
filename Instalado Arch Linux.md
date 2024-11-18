@@ -1,4 +1,4 @@
-# Instalando Arch Linux
+sys# Instalando Arch Linux
 
 - [Instalando Arch Linux](#instalando-arch-linux)
 - [Configurar un entorno virtual 📦](#configurar-un-entorno-virtual-)
