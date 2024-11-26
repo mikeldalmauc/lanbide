@@ -1,0 +1,95 @@
+/* styles.css */
+body {
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fefefe;
+    color: #444;
+    line-height: 1.6;
+}
+
+header {
+    background: linear-gradient(45deg, #ffcc99, #ff5733);
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 0 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #ffcc99;
+}
+
+main {
+    padding: 20px;
+}
+
+main h2 {
+    color: #ff5733;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2rem;
+}
+
+section {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+section img {
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.gallery div {
+    width: 200px;
+    text-align: center;
+}
+
+.gallery img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 40px;
+}
+
+footer p {
+    margin: 0;
+}
