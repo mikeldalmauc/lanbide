@@ -1,20 +1,23 @@
-# $$Eventos-del-Sistema$$
-### $$Autor: Josue$$
+# Eventos del Sistema
 
-- [$$Eventos-del-Sistema$$](#eventos-del-sistema)
-    - [$$Autor: Josue$$](#autor-josue)
+$$Autor: Josue$$
+
+
+- [Eventos del Sistema](#eventos-del-sistema)
   - [*¿Qué es?*](#qué-es)
   - [*¿Para qué sirve?*](#para-qué-sirve)
   - [*¿Qué opciones ofrece?*](#qué-opciones-ofrece)
   - [*¿Cómo acceder al Visor de Eventos en Windows 11?*](#cómo-acceder-al-visor-de-eventos-en-windows-11)
 
 
-![alt text](image-4.png)
+---
+
 
 ## *¿Qué es?*
 
 Los ***eventos del sistema*** en Windows 11 son registros que documentan las actividades que ocurren dentro del sistema operativo. Estos eventos se generan automáticamente por Windows y por las aplicaciones o servicios que se ejecutan en el sistema.
 
+---
 
 ## *¿Para qué sirve?*
 
@@ -26,6 +29,7 @@ Los ***eventos del sistema*** en Windows 11 son registros que documentan las act
    
 4. **Solución de fallos críticos:** Determina las causas de reinicios inesperados o pantallas azules (BSOD).
 
+---
 
 ## *¿Qué opciones ofrece?*
 
@@ -44,6 +48,7 @@ Son problemas serios que generalmente requieren atención inmediata, como un err
 5. **Auditorías de seguridad (éxito o fracaso):**
 Se generan cuando se registran acciones relacionadas con la seguridad, como intentos de inicio de sesión exitosos o fallidos.
 
+---
 
 ## *¿Cómo acceder al Visor de Eventos en Windows 11?* 
 
@@ -60,3 +65,4 @@ Se generan cuando se registran acciones relacionadas con la seguridad, como inte
 
 5. A continuación entra en la carpeta de eventos de ***Aplicaciones y servicios*** y en el panel derecho selecciona la opción de ***Filtrar registro actual***  
 ![alt text](image-3.png)
+

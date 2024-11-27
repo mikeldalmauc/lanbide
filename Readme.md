@@ -27,16 +27,21 @@
 - [Comandos básicos](<MF0219_2 Instalación y configuración/comandos-basicos-linux.md>)
 - [Gestion de procesos :loop:](<MF0219_2 Instalación y configuración/gestion-de-procesos.md>)
 - [Gestion de usuarios :busts_in_silhouette:](<MF0219_2 Instalación y configuración/gestion-de-usuarios-en-linux.md>)
-- [Comandos Git :construction:](<MF0219_2 Instalación y configuración/git.md>)
+- [:construction: Comandos Git :construction:](<MF0219_2 Instalación y configuración/git.md>)
 - [Confugurar Kitty :pouting_cat:](<MF0219_2 Instalación y configuración/ConfigurarKitty.md>)
 - [Practica Permisos :key:](<MF0219_2 Instalación y configuración/practica-permisos.md >)
 
 ### Windows 
+- [Acerca de Windows](<MF0219_2 Instalación y configuración/caracteristicas de windows/caracteristicas de Windows.md>)
 - [Limpiar sistema de archivos :open_file_folder:](<MF0219_2 Instalación y configuración/limpiar-sistema-archivos-windows.md>)
 - [Administrador de tareas y rendimiento :battery:](<MF0219_2 Instalación y configuración/Administrador de tareas y rendimiento/tareasyrendimiento.md>)
-- [Editor del Registro](<MF0219_2 Instalación y configuración/Editor del registro del sistema (regedit)/regedit.md>)
+- [Editor del Registro :scroll:](<MF0219_2 Instalación y configuración/Editor del registro del sistema (regedit)/regedit.md>)
 - [Programación de Tareas ⏰](<MF0219_2 Instalación y configuración/Programación de Tareas en Windows/Programación de Tareas.md>)
-
+- [Mensajes del sistema :postbox:](<MF0219_2 Instalación y configuración/Mensajes y ausos del sistema/mensajes-y-usos-del-sistema.md.md>)
+- [:construction: Características del Sistema :construction:]()
+- [Eventos del sistema :speech_balloon:](<MF0219_2 Instalación y configuración/eventos-del-sistema/eventosdelsistema.md>)
+- [Usuarios y Grupos :busts_in_silhouette:](<MF0219_2 Instalación y configuración/Usuarios y Grupos/Usuarios y Grupos.md>)
+- [Configuración Avanzada :fast_forward:](<MF0219_2 Instalación y configuración/configuración avanzada/configuración avanzada.md>)
 ### Otros
 - [Infografía Mercado laboral y puestos de trabajo IT :construction_worker:](<MF0219_2 Instalación y configuración/mercado laboral/Puestos de trabajo.md>)
 - [Sistema Información (enunciado)](<MF0219_2 Instalación y configuración/sistema-información/sistema-informacion.md>)
