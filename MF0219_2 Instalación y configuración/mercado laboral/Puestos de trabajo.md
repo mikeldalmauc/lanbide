@@ -1,4 +1,9 @@
 
+- [Enunciado](#enunciado)
+- [Infografía puestos de trabajo](#infografía-puestos-de-trabajo)
+
+
+# Enunciado
 
 Reparto:
 - Josue: Especialista en Big Data.
@@ -19,4 +24,7 @@ Puntos a tratar:
 - ¿Cual es el rango salarial?
 - ¿Qué proyección de futuro tiene?
 
-[Infografía puestos de trabajo](https://excalidraw.com/#room=580250f8f8a6e36f2a32,esIX9PxfOmDWC2ZDtppA6A)
+# Infografía puestos de trabajo
+
+![alt text](InfografíaPuestosDeTrabajo.png)
+[src, infografía](lanbidetrabajos.excalidraw)

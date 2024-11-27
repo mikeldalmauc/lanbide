@@ -4,6 +4,6 @@
 []
 
 ## MF0954_2 Montaje y reparación de sistemas microinformáticos (cp)
-
+    
 - 
 - [Seguridad Informática Infografía](<MF0954_2 Reparación/Seguridad informática/Infografía Amenazas de Seguridad/Enunciado.md>)

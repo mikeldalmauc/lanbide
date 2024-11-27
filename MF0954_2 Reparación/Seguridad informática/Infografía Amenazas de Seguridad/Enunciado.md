@@ -1,6 +1,5 @@
 
 - [Enunciado](#enunciado)
-  - [General](#general)
   - [Phishing](#phishing)
   - [Malware](#malware)
   - [Ataques de fuerza bruta](#ataques-de-fuerza-bruta)
@@ -8,6 +7,7 @@
   - [Exploits de vulnerabilidades](#exploits-de-vulnerabilidades)
   - [Ingeniería social](#ingeniería-social)
   - [Brechas de seguridad famosas en la historia](#brechas-de-seguridad-famosas-en-la-historia)
+- [Infografía amenazas de seguridad](#infografía-amenazas-de-seguridad)
 
 
 # Enunciado
@@ -23,46 +23,35 @@ Desarrolla el tema en cuestión, en forma de diagrama usando [Excalidraw ✏️]
 3. Incluye imágenes y hazlo graficamente atractivo
 4. Desata tu creatividad 🤯
 
-## General
-
-[Infografía Amenazas de Seguridad Informátic]()
-
 ## Phishing
 
 Ataques diseñados para engañar a los usuarios y obtener información confidencial, como contraseñas o datos bancarios, mediante correos electrónicos, mensajes o sitios web falsos.
 **Responsable Annia**
-**Enlace a la sesión Excalidraw:**
-
 
 ## Malware
 
 Programas maliciosos como virus, ransomware, spyware y troyanos que se instalan en dispositivos para dañar, robar información o tomar el control del sistema.
 **Responsable Oier**
-**Enlace a la sesión Excalidraw:**
 
 ## Ataques de fuerza bruta
 
 Intentos de adivinar contraseñas probando múltiples combinaciones hasta encontrar la correcta, a menudo utilizando herramientas automatizadas.
 **Responsable Mohamed**
-**Enlace a la sesión Excalidraw:**
 
 ## Ataques DDoS (Distributed Denial of Service): 
 
 Sobrecargan servidores o redes con una cantidad masiva de solicitudes para interrumpir su funcionamiento normal.
 **Responsable Mauricio**
-**Enlace a la sesión Excalidraw:**
 
 ## Exploits de vulnerabilidades
 
 Aprovechan fallos de seguridad en software o sistemas operativos para obtener acceso no autorizado o ejecutar código malicioso.
 **Responsable Monced**
-**Enlace a la sesión Excalidraw:**
 
 ## Ingeniería social
 
 Manipulación psicológica de personas para que revelen información confidencial o realicen acciones que comprometan la seguridad.
 **Responsable Abdellah**
-**Enlace a la sesión Excalidraw:**
 
 ## Brechas de seguridad famosas en la historia
 
@@ -72,5 +61,10 @@ Tres ejemplos de las brechas de seguridad informática más famosas que encuentr
 - Quién fue atacado?
 - Quién fue el perpetrador?
 - Cómo se logro (que tecnología)?
-**Bilal**
-**Enlace a la sesión Excalidraw:**
+
+
+# Infografía amenazas de seguridad
+
+![infografía amenazas de seguridad](infografía_amenazas_seguridad.png)
+
+[Src: Infografía Amenazas de Seguridad Informática](InfografíaAmenazasSeguridad.excalidraw)
