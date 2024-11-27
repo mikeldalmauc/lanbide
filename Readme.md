@@ -34,6 +34,8 @@
 ### Windows 
 - [Limpiar sistema de archivos :open_file_folder:](<MF0219_2 Instalación y configuración/limpiar-sistema-archivos-windows.md>)
 - [Administrador de tareas y rendimiento :battery:](<MF0219_2 Instalación y configuración/Administrador de tareas y rendimiento/tareasyrendimiento.md>)
+- [Editor del Registro](<MF0219_2 Instalación y configuración/Editor del registro del sistema (regedit)/regedit.md>)
+- [Programación de Tareas ⏰](<MF0219_2 Instalación y configuración/Programación de Tareas en Windows/Programación de Tareas.md>)
 
 ### Otros
 - [Infografía Mercado laboral y puestos de trabajo IT :construction_worker:](<MF0219_2 Instalación y configuración/mercado laboral/Puestos de trabajo.md>)
