@@ -3,9 +3,11 @@
 ![alt text](image-2.png)
 
 - [Impresoras](#impresoras)
-- [Orígenes de la impresión mecanizada](#orígenes-de-la-impresión-mecanizada)
+- [Orígenes de la impresión mecanizada :nut\_and\_bolt:](#orígenes-de-la-impresión-mecanizada-nut_and_bolt)
 - [Timeline de la impresión](#timeline-de-la-impresión)
-- [Tipos de impresoras](#tipos-de-impresoras)
+- [Tarea](#tarea)
+  - [Numeros por persona](#numeros-por-persona)
+- [Tipos de impresoras :fax:](#tipos-de-impresoras-fax)
     - [Por Tecnología de Impresión](#por-tecnología-de-impresión)
     - [Por Uso o Sector](#por-uso-o-sector)
     - [Por Funcionalidad Adicional](#por-funcionalidad-adicional)
@@ -26,7 +28,11 @@ La reproducción de textos e imágenes ha sido una necesidad constante en la his
 
 TODO
 
+- 3- Impresora de línea 1959 
+
 # Tarea
+
+Crear un documento para cada tipo de impresora entre las asignadas más abajo.
 
 1. Debe estar contenido en una carpeta propia de nombre el nombre de la impresora con el numero delanta.
 2. Crear documento de mardown `.md`.
@@ -38,6 +44,7 @@ TODO
    5. Descripción de la impresora.
    6. Fecha de invención (si es posible) sino fecha de aparición en el mercado sino fecha aproximada.
    7. Ventajas y desventajas.
+[adsd]()
 
 [ver ejemplo para impresoras de etiquetas industriales.](./Impresora%20de%20etiquetas/Impresora%20de%20etiquetas.md)
 
@@ -45,7 +52,7 @@ TODO
 
 - Abellah (5 números): 2, 9, 21, 23, 37
 - Ingrid (4 números): 6, 10, 14, 35, 39
-- Mauricio (4 números): 3, 7, 15, 32
+- Mauricio (4 números): ✅3, 7, 15, 32
 - Mohamed (4 números): 1, 8, 16, 30
 - Moncef (4 números): 4, 12, 17, 29
 - Bilal (4 números): 5, 13, 27, 36
@@ -62,7 +69,7 @@ A continuación se presenta una clasificación amplia de distintos tipos de impr
 
 1. Impresora matricial (dot matrix)  
 2. Impresora de margarita (daisy wheel)  
-3. Impresora de línea  
+3. [Impresora de línea](<3. Impresora de Linea/Impreaora de Linea.md>)
 4. Impresora de inyección de tinta con cabezales térmicos  
 5. Impresora de inyección de tinta con cabezales piezoeléctricos  
 6. Impresora láser monocromo  

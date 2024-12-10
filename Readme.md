@@ -4,7 +4,7 @@
 # Guía Apuntes y Trabajos Lanbide IFCT0309 Montaje y reparación de sistema microinformático
 
 - [Guía Apuntes y Trabajos Lanbide IFCT0309 Montaje y reparación de sistema microinformático](#guía-apuntes-y-trabajos-lanbide-ifct0309-montaje-y-reparación-de-sistema-microinformático)
-  - [MF0219\_2 Instalar y configurar el software base en sistemas microinformáticos.](#mf0219_2-instalar-y-configurar-el-software-base-en-sistemas-microinformáticos)
+  - [MF0219\_2 Instalación y configuración.](#mf0219_2-instalación-y-configuración)
     - [Instalación de sistemas](#instalación-de-sistemas)
     - [Linux](#linux)
     - [Windows](#windows)
@@ -14,9 +14,12 @@
     - [Contacto :mailbox:](#contacto-mailbox)
 
 
-## MF0219_2 Instalar y configurar el software base en sistemas microinformáticos.
+## MF0219_2 Instalación y configuración.
+
+MF0219_2 Instalar y configurar el software base en sistemas microinformáticos
 
 ### Instalación de sistemas 
+
 - [Crear USB arranque Ventoy :airplane:](<MF0219_2 Instalación y configuración/Crear USB de arranque con Ventoy.md>)
 - [](<MF0219_2 Instalación y configuración/Crear-Imagen-Disco-Virtual-Box.md>)
 
@@ -30,6 +33,7 @@
 - [:construction: Comandos Git :construction:](<MF0219_2 Instalación y configuración/git.md>)
 - [Confugurar Kitty :pouting_cat:](<MF0219_2 Instalación y configuración/ConfigurarKitty.md>)
 - [Practica Permisos :key:](<MF0219_2 Instalación y configuración/practica-permisos.md >)
+- [Gía para instalar Samba](<MF0219_2 Instalación y configuración/Guía para instalar y configurar Samba/guia samba nj.md>)
 
 ### Windows 
 - [Acerca de Windows](<MF0219_2 Instalación y configuración/caracteristicas de windows/caracteristicas de Windows.md>)
