@@ -9,11 +9,11 @@ Ventajas y desventajas.
 
 1: [Página de Wikipedia sobre las impresoras láser](https://es.wikipedia.org/wiki/Impresora_l%C3%A1ser)
 2: [Enlace a Amazon para una imp. láser monocromo](https://www.amazon.es/impresora-laser-monocromo/s?k=impresora+laser+monocromo)
-3: ![alt text](shopping.webp)
+3: ![alt text](shopping.jpg)
 
 # Diagrama
 
-4: ![alt text](Impresora-Laser.webp)
+4: ![alt text](Impresora-Laser.jpg)
 
 # Descripción
 

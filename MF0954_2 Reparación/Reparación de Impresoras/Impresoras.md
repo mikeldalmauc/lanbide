@@ -54,10 +54,10 @@ Crear un documento para cada tipo de impresora entre las asignadas más abajo.
 - Ingrid (4 números): 6, ✅10, 14, 35, 39
 - Mauricio (4 números): ✅3, ✅7, ✅15, ✅32
 - Mohamed (4 números): 1, 8, 16, 30
-- Moncef (4 números): 4, ✅12, 17, 29
+- Moncef (4 números): ✅4, ✅12, ✅17, ✅29
 - Bilal (4 números): 5, 13, 27, 36
 - Oier (4 números): ✅11, ✅20, ✅22, ✅34
-- Josue (4 números): ✅18, ✅25, ✅31, 38
+- Josue (4 números): ✅18, ✅25, ✅31, ✅38
 - Annia (4 números): 19, 24, 26, 33
 - Mikel: Timeline
 
@@ -70,7 +70,7 @@ A continuación se presenta una clasificación amplia de distintos tipos de impr
 1. Impresora matricial (dot matrix)  
 2. Impresora de margarita (daisy wheel)  
 3. [Impresora de línea](<3. Impresora de Linea/Impreaora de Linea.md>)
-4. Impresora de inyección de tinta con cabezales térmicos  
+4. [Impresora de inyección de tinta con cabezales térmicos ](<4. Impresora de inyección de tinta con cabezales termicos/impresora de inyección de tinta con cabezales.md>)
 5. Impresora de inyección de tinta con cabezales piezoeléctricos  
 6. Impresora láser monocromo  
 7. Impresora láser a color  
@@ -81,9 +81,9 @@ A continuación se presenta una clasificación amplia de distintos tipos de impr
 12. [Impresora de tinta sólida (solid ink)](<12. Impresora de tinta sólida  (solid ink )/Impresora de tinta sólida (solid ink).md>)
 13. Impresora fotográfica dedicada (basada en inkjet o sublimación)  
 14. Impresora 3D FDM (Modelado por Deposición Fundida)  
-15. [Impresora 3D SLA (Estereolitografía)](<15. Impresora 3D SLA (Estereolitografía)/Impresora 3D SLA (Estereolitografía).md>)
+15. [Impresora 3D SLA (Estereolitografía)](<15. Impresora 3D SLA (Estere  olitografía)/Impresora 3D SLA (Estereolitografía).md>)
 16. Impresora 3D SLS (Sinterizado Selectivo por Láser)  
-17. Impresora 3D DLP (Procesamiento Digital de Luz)  
+17. [Impresora 3D DLP (Procesamiento Digital de Luz)](<17. Impresora 3D DLP (Procesamiento Digital de Luz)/Impresora 3D DLP (Procesamiento Digital de Luz) .md>)
 18. [Impresora 3D PolyJet](<18. Impresora-3D-PolyJet/Impresora-3D-PolyJet.md>) 
 19. Impresora 3D Binder Jetting  
 20. [Impresora 3D metálica (DMLS, EBM)](<20. Impresora 3D Metálica/Impresora 3D Metálica.md>)
@@ -100,7 +100,7 @@ A continuación se presenta una clasificación amplia de distintos tipos de impr
 26. Impresora de flexografía digital (industrial)  
 27. Impresora de rotograbado digital (industrial)  
 28. [Impresora de etiquetas y códigos de barras (industrial/comercial)](./Impresora%20de%20etiquetas/Impresora%20de%20etiquetas.md)  
-29. Impresora POS (punto de venta, generalmente térmica)  
+29. [Impresora POS (punto de venta, generalmente térmica) ](<29 . Impresora POS/29. Impresora POS (punto de venta, generalmente térmica) .md>)
 30. Impresora para tarjetas plásticas (PVC)  
 31. [Impresora portátil o móvil (impresoras de bolsillo)](<31. Impresora portátil o móvil(impresora de bolsillo)/Impresora portátil o móvil (impresora de bolsillo).md>)
 
@@ -119,7 +119,7 @@ A continuación se presenta una clasificación amplia de distintos tipos de impr
 35. Impresora para formatos estándar (A4, A3, A2, etc.)  
 36. Impresora fotográfica mini (formato reducido, ej. 10x15 cm)  
 37. Plotter (para planos, diseños CAD y gran formato)  
-38. Impresora de etiquetas y códigos de barras (térmicas, uso comercial)  
+38. [Impresora de etiquetas y códigos de barras (térmicas, uso comercial)](<38. Impresora de etiquetas y códigos de barras (térmicas, uso comercial)/Impresora de etiquetas y códigos de barras (térmicas, uso comercial).md>)
 39. Impresora de tickets/recibos (POS, pequeñas y rápidas)
 
 ---
