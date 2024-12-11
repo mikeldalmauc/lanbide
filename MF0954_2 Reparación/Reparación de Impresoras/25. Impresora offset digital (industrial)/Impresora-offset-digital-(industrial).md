@@ -1,6 +1,6 @@
 # Impresora offset digital (industrial)
 
-![alt text](image.png)
+![alt text](image-2.png)
 
 *[Página de interés](https://tecnographic.net/impresion-digital-offset-que-es/#elementor-toc__heading-anchor-2)*
 

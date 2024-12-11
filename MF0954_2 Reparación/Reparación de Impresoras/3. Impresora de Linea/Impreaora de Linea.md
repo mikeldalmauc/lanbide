@@ -25,7 +25,7 @@ grama
 
  ### Fecha de Invención:
 
- En 1959 inventa los equipos de impresión por líneas.
+En 1959 se inventan los equipos de impresión por líneas.
 Finalmente, en 1969 un ingeniero norteamericano llamado Gary Starkweather creó la primera impresora láser. Que 2 años después se hizo realidad en el centro de investigaciones Xerox. No obstante, no llegó al mercado hasta 1977.
 
 ### Ventajas de Impresoras de Linea

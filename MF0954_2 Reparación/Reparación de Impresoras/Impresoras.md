@@ -51,13 +51,13 @@ Crear un documento para cada tipo de impresora entre las asignadas más abajo.
 ## Numeros por persona
 
 - Abellah (5 números): 2, 9, 21, 23, 37
-- Ingrid (4 números): 6, 10, 14, 35, 39
-- Mauricio (4 números): ✅3, 7, 15, 32
+- Ingrid (4 números): 6, ✅10, 14, 35, 39
+- Mauricio (4 números): ✅3, ✅7, ✅15, ✅32
 - Mohamed (4 números): 1, 8, 16, 30
-- Moncef (4 números): 4, 12, 17, 29
+- Moncef (4 números): 4, ✅12, 17, 29
 - Bilal (4 números): 5, 13, 27, 36
-- Oier (4 números): 11, 20, 22, 34
-- Josue (4 números): 18, 25, 31, 38
+- Oier (4 números): ✅11, ✅20, ✅22, ✅34
+- Josue (4 números): ✅18, ✅25, ✅31, 38
 - Annia (4 números): 19, 24, 26, 33
 - Mikel: Timeline
 
@@ -75,42 +75,42 @@ A continuación se presenta una clasificación amplia de distintos tipos de impr
 6. Impresora láser monocromo  
 7. Impresora láser a color  
 8. Impresora LED  
-9. Impresora térmica directa  
+9. [Impresora térmica directa](<10. Impresora de transferencia térmica/Impresora de transferencia térmica.md>)
 10. Impresora de transferencia térmica  
-11. Impresora de sublimación de tinta  
-12. Impresora de tinta sólida (solid ink)  
+11. [Impresora de sublimación de tinta](<11. Impresoras de sublimación/Impresoras de sublimación.md>)  
+12. [Impresora de tinta sólida (solid ink)](<12. Impresora de tinta sólida  (solid ink )/Impresora de tinta sólida (solid ink).md>)
 13. Impresora fotográfica dedicada (basada en inkjet o sublimación)  
 14. Impresora 3D FDM (Modelado por Deposición Fundida)  
-15. Impresora 3D SLA (Estereolitografía)  
+15. [Impresora 3D SLA (Estereolitografía)](<15. Impresora 3D SLA (Estereolitografía)/Impresora 3D SLA (Estereolitografía).md>)
 16. Impresora 3D SLS (Sinterizado Selectivo por Láser)  
 17. Impresora 3D DLP (Procesamiento Digital de Luz)  
-18. Impresora 3D PolyJet  
+18. [Impresora 3D PolyJet](<18. Impresora-3D-PolyJet/Impresora-3D-PolyJet.md>) 
 19. Impresora 3D Binder Jetting  
-20. Impresora 3D metálica (DMLS, EBM)
+20. [Impresora 3D metálica (DMLS, EBM)](<20. Impresora 3D Metálica/Impresora 3D Metálica.md>)
 
 ---
 
 ### Por Uso o Sector
 
 21. Impresora doméstica (generalmente inkjet)  
-22. Impresora de oficina o empresarial (láser, multifunción)  
+22. [Impresora de oficina o empresarial (láser, multifunción)](<22. Impresora de oficina/Impresora de oficina.md>)
 23. Impresora fotográfica profesional (alta calidad, inkjet o sublimación)  
 24. Impresora industrial/comercial de gran formato (plotter)  
-25. Impresora offset digital (industrial)  
+25. [Impresora offset digital (industrial)](<25. Impresora offset digital (industrial)/Impresora-offset-digital-(industrial).md>)
 26. Impresora de flexografía digital (industrial)  
 27. Impresora de rotograbado digital (industrial)  
 28. [Impresora de etiquetas y códigos de barras (industrial/comercial)](./Impresora%20de%20etiquetas/Impresora%20de%20etiquetas.md)  
 29. Impresora POS (punto de venta, generalmente térmica)  
 30. Impresora para tarjetas plásticas (PVC)  
-31. Impresora portátil o móvil (impresoras de bolsillo)
+31. [Impresora portátil o móvil (impresoras de bolsillo)](<31. Impresora portátil o móvil(impresora de bolsillo)/Impresora portátil o móvil (impresora de bolsillo).md>)
 
 ---
 
 ### Por Funcionalidad Adicional
 
-32. Impresora multifunción (MFP: impresora, escáner, copiadora y ocasional fax)  
+32. [Impresora multifunción (MFP: impresora, escáner, copiadora y ocasional fax) ](<32.Impresora Multifuncion/32.Impresora Multifuncion.md>)  
 33. Impresora con conectividad avanzada (Wi-Fi, Bluetooth, impresión en la nube)  
-34. Impresora con funciones de seguridad y gestión avanzada (cifrado, autenticación)
+34. [Impresora con funciones de seguridad y gestión avanzada (cifrado, autenticación)](<34. Impresora con funciones de seguridad/Impresora con funciones de seguridad.md>)
 
 ---
 

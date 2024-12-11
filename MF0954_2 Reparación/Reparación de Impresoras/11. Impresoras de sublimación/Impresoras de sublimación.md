@@ -1,4 +1,4 @@
-# Impresora de sublimación de tinta 
+# Impresora de Sublimación de Tinta 
 
 La impresión por sublimación utiliza calor y presión para transferir diseños a diferentes materiales. Es ideal para personalizar ropa, tazas, y otros objetos recubiertos de polímeros. Puedes encontrar información detallada en [Tecno Simple](https://tecno-simple.com/) y [Printful](https://www.printful.com/es).
 
@@ -14,7 +14,7 @@ Un modelo comercial popular es la Epson SureColor F100, disponible en plataforma
 Una impresora de sublimación utiliza tintas especiales que, mediante calor, pasan de estado sólido a gaseoso sin convertirse en líquido. Estas tintas se integran químicamente con los materiales, creando impresiones de alta calidad y duraderas. Es ideal para personalizar productos de poliéster o superficies recubiertas de polímeros, como tazas, camisetas o fundas de almohadas.
 
 
-El uso de la sublimación en impresión se popularizó en los años 80. Aunque no hay una fecha exacta, este método se hizo comercialmente viable en la década de los 90, con avances tecnológicos que lo optimizaron.
+En 1957, Noël de Plasse, inventó la primera máquina que funcionaba con sublimación de tinta pero el uso de la sublimación en impresión se popularizó en los años 80. Aunque no hay una fecha exacta, este método se hizo comercialmente viable en la década de los 90, con avances tecnológicos que lo optimizaron.
 
 ### Ventajas y Desventajas
 - **Ventajas:**

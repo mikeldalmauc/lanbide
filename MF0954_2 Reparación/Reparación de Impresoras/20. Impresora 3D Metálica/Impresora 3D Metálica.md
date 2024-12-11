@@ -1,7 +1,7 @@
-# Impresora 3D metálica (DMLS, EBM) 
+# Impresora 3D Metálica (DMLS, EBM) 
 La impresión 3D metálica se basa en la fabricación aditiva, un método que permite construir objetos capa por capa utilizando polvos metálicos y fuentes de energía específicas. Dos de las tecnologías más destacadas en este campo son la Sinterización Directa de Metales por Láser (DMLS) y la Fusión por Haz de Electrones (EBM). Ambas técnicas ofrecen alta precisión, resistencia y son ideales para sectores como el aeroespacial y la medicina. A continuación, se profundiza en sus características y diferencias.
 
-Para más detalles sobre las tecnologías DMLS y EBM, visita la guía de impresión metálica en EOS y el sitio especializado 3Dnatives.
+Para más detalles sobre las tecnologías DMLS y EBM, visita la guía de impresión metálica en [EOS](https://www.eos.info/) y el sitio especializado 3Dnatives.
 
 
 Un ejemplo destacado de tecnología DMLS es la EOS M 290, utilizada ampliamente en la fabricación de piezas metálicas.
@@ -15,7 +15,10 @@ Un ejemplo destacado de tecnología DMLS es la EOS M 290, utilizada ampliamente 
 [Arcam EBM Spectra L](https://www.3dmaquinser.com/productos/spectra-l/)
 
 ### Diagrama Técnico
-![alt text](image-8.png)
+![alt text](image.png)
+*Diagrama técnico de una impresora DMLS*
+![alt text](image-1.png)
+*Diagrama técnico de una impresora EBM*
 
 ### Descripción
 
@@ -33,7 +36,7 @@ En este proceso, un haz de electrones funde polvo metálico en una cámara de va
 
 
 
-## Ventajas y desventajas
+## Ventajas y Desventajas
 ##### ***DMLS:***
 - **Ventajas:**
     - Alta resolución y precisión geométrica.
