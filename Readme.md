@@ -55,6 +55,9 @@ MF0219_2 Instalar y configurar el software base en sistemas microinformáticos
 - [Reparación de averías en windows :wrench:](<MF0954_2 Reparación/Reparación de averías en windows/reparación_windows.md>)
 - [Seguridad Informática Infografía :moyai:](<MF0954_2 Reparación/Seguridad informática/Infografía Amenazas de Seguridad/Enunciado.md>)
 
+### Reparación de impresoras
+- [Impresoras](<MF0954_2 Reparación/Reparación de Impresoras/Impresoras.md>)
+  
 ## Recursos y referencias
 
 - [Emojis GithuB :octocat:](https://gist.github.com/rxaviers/7360908)
