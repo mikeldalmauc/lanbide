@@ -89,6 +89,8 @@ Se ha de documentar el proceso de forma clara y concisa. Se ha de utilizar markd
 
 # Parte teórica (4 puntos)
 
+Preguntas tipo test
+
 
 
 

@@ -10,8 +10,10 @@ if (Test-Path $outputFile) {
 # Busca todos los archivos Markdown en la carpeta y sus subcarpetas
 $markdownFiles = Get-ChildItem -Path $rootFolder -Recurse -Filter "*.md"
 
+$fileCount = 0
 # Procesa cada archivo Markdown
 foreach ($file in $markdownFiles) {
+    $fileCount += 1 
     # Agrega un encabezado indicando el archivo que se está concatenando
     Add-Content -Path $outputFile -Value "`n### Contenido de: $($file.FullName)`n"
     

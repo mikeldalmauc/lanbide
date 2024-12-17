@@ -84,7 +84,7 @@ A continuación se presenta una clasificación amplia de distintos tipos de impr
 12. [Impresora de tinta sólida (solid ink)](<12. Impresora de tinta sólida  (solid ink )/Impresora de tinta sólida (solid ink).md>)
 13. Impresora fotográfica dedicada (basada en inkjet o sublimación)  
 14. Impresora 3D FDM (Modelado por Deposición Fundida)  
-15. [Impresora 3D SLA (Estereolitografía)](<15. Impresora 3D SLA (Estereolitografía)/Impresora 3D SLA (Estereolitografía).md>)
+15. [Impresora 3D SLA (Estereolitografía)](<15. Impresora 3D SLA (Estere  olitografía)/Impresora 3D SLA (Estereolitografía).md>)
 16. Impresora 3D SLS (Sinterizado Selectivo por Láser)  
 17. [Impresora 3D DLP (Procesamiento Digital de Luz)](<17. Impresora 3D DLP (Procesamiento Digital de Luz)/Impresora 3D DLP (Procesamiento Digital de Luz) .md>)
 18. [Impresora 3D PolyJet](<18. Impresora-3D-PolyJet/Impresora-3D-PolyJet.md>) 
@@ -134,43 +134,42 @@ Cada tipo de impresora tiene sus ventajas y desventajas, y la elección de una u
 
 ### Contenido de: V:\lanbide\MF0954_2 Reparaci�n\Reparaci�n de Impresoras\1.Impresora matricial (dot matrix)\Impresora matricial (dot matrix).md
 
-# Impresora Matricial (Dot Matrix)
+# 🖨️ Impresora Matricial (Dot Matrix)
 
-## Referencia de Interés
+## 🌐 Referencia de Interés
 - [Historia de Impresoras Matriciales](https://www.profesionalreview.com/2021/10/02/impresora-matricial-que-es/)
 
-## Referencia Comercial
+## 🛒 Referencia Comercial
 - [Impresora Matricial Epson LX-350 en Amazon](https://www.amazon.es/Epson-DR000103-LX-350-Impresora-matricial/dp/B00AC3S18S/ref=asc_df_B00AC3S18S?mcid=58f88d63dbc43123b1fb974876a88005&tag=googshopes-21&linkCode=df0&hvadid=699690028245&hvpos=&hvnetw=g&hvrand=1741630754448173325&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9219525&hvtargid=pla-631862899820&psc=1&gad_source=1)
-
-## Imagen Representativa
+## 🖼️ Imagen Representativa
 Impresora Matricial 
 ![alt text](71Cgr3OD7UL-1.jpg)
-
-## Diagrama Técnico
+## 📐 Diagrama Técnico
 Diagrama Técnico Impresora Matricial
 ![alt text](2014-06-19-01_56_39-exposicion-del-profe-arista-docx-wordpad.jpg)
-## Descripción
-La impresora matricial, también conocida como impresora de punto, es un tipo de impresora de impacto que forma caracteres y gráficos golpeando una matriz de puntos contra una cinta entintada, dejando una marca sobre el papel. Utiliza una cabeza de impresión con múltiples agujas (generalmente entre 9 y 24) que se mueven vertical y horizontalmente para crear caracteres y gráficos.
 
-## Fecha de Invención
-- Invención: Década de 1970
-- Popularización: Principios de 1980
+## 📝 Descripción
+La impresora matricial, también conocida como impresora de punto, es un tipo de impresora de impacto que forma caracteres y gráficos golpeando una matriz de puntos contra una cinta entintada, dejando una marca sobre el papel. 
 
-## Ventajas y Desventajas
+## 📅 Fecha de Invención
+- 🕰️ Invención: Década de 1970
+- 🚀 Popularización: Principios de 1980
 
-### Ventajas
-- Bajo costo de impresión
-- Capacidad para imprimir copias múltiples mediante papel carbón
-- Resistente y duradera
-- Eficaz para imprimir formularios y documentos de varias capas
-- Bajo costo de mantenimiento
+## 📊 Ventajas y Desventajas
 
-### Desventajas
-- Calidad de impresión baja
-- Ruido alto durante la impresión
-- Velocidad de impresión lenta
-- Impresión en color limitada o inexistente
-- Resolución gráfica limitada
+### 👍 Ventajas
+- Bajo costo de impresión 💲
+- Capacidad para imprimir copias múltiples mediante papel carbón 📄
+- Resistente y duradera 💪
+- Eficaz para imprimir formularios y documentos de varias capas 📋
+- Bajo costo de mantenimiento 🔧
+
+### 👎 Desventajas
+- Calidad de impresión baja 📉
+- Ruido alto durante la impresión 🔊
+- Velocidad de impresión lenta 🐌
+- Impresión en color limitada o inexistente 🌈
+- Resolución gráfica limitada 📏
 
 ### Contenido de: V:\lanbide\MF0954_2 Reparaci�n\Reparaci�n de Impresoras\10. Impresora de transferencia t�rmica\Impresora de transferencia t�rmica.md
 
@@ -295,25 +294,50 @@ https://www.amazon.es/HL-L3240CDW-L%C3%A1ser-LED-s%C3%B3lido-INK/dp/B0CJV67GT7
 
 https://www.consumoteca.com/electronica/impresora-de-tinta-solida/
 
-### Contenido de: V:\lanbide\MF0954_2 Reparaci�n\Reparaci�n de Impresoras\13.impresora fotografica delicada\Impresora Fotografica delicada.md
+### Contenido de: V:\lanbide\MF0954_2 Reparaci�n\Reparaci�n de Impresoras\13.Impresora fotogr�fica dedicada (basada en inkjet o sublimaci�n)\Impresora fotogr�fica dedicada.md
 
-Impresora  Fotografica delicada
-![alt text](impresora.jpg)
-Tecnología
-Método de impresión
-Impresora de inyección de tinta de 6 colores
-Configuración inyectores
-180 Inyectores negro, 900 Inyectores por color
-Tamaño máximo gota
-1,5 pl
-Impresión
-Number of colours
-6 colour
-Velocidad de impresión ISO/IEC 24734
-8 páginas/minuto Monocromo, 8 páginas/minuto Color
-Velocidad de impresión
-22 páginas/minuto Monocromo (Papel Normal 75 g/m²), 22 páginas/minuto Color (Papel Normal 75 g/m²), 25 segundos por foto de 10 x 15 cm (Epson Premium Glossy Photo Paper)
+La impresora fotográfica dedicada, basada en tecnologías como inkjet (chorro de tinta) o sublimación de tinta, está diseñada para imprimir fotografías con calidad profesional. Estos dispositivos son utilizados por fotógrafos, estudios y usuarios domésticos que buscan resultados de alta calidad para álbumes, eventos o negocios de impresión instantánea.
+![alt text](image.png)
+Descripción:
+Las impresoras fotográficas dedicadas como la Canon Selphy CP1300 (sublimación térmica) y modelos similares ofrecen impresión compacta y rápida, con funciones como conectividad inalámbrica, durabilidad de hasta 100 años de las impresiones en álbumes, y compatibilidad con aplicaciones móviles. Estas impresoras permiten tamaños desde tarjetas pequeñas hasta postales de 4x6 pulgadas.
 
+Por otro lado, en tecnología de sublimación térmica, como la Citizen CX-02, se utiliza transferencia térmica para producir imágenes con gran estabilidad de color y resistencia a la decoloración, ideal para fotografía de eventos o kioscos fotográficos​
+ARKIPLOT
+​
+FUJIFILM
+​
+CANON MÉXICO
+.
+![alt text](image-1.png)
+Fecha de Invención:
+La tecnología inkjet fue desarrollada comercialmente en los años 70, mientras que la sublimación térmica apareció en el mercado en las décadas de 1980 y 1990, adaptándose luego para impresión fotográfica.
+Ventajas y Desventajas:
+Ventajas:
+
+Alta calidad fotográfica con colores vibrantes y precisión de detalles.
+Modelos portátiles y fáciles de usar.
+Durabilidad de las impresiones frente a la decoloración.
+Compatibles con smartphones y cámaras para impresión instantánea.
+Desventajas:
+
+Costos elevados en consumibles (papel y tintas específicas).
+Limitaciones en el tamaño máximo de impresión.
+Velocidad de impresión relativamente lenta en algunos casos​
+ARKIPLOT
+​
+FUJIFILM
+​
+CANON MÉXICO
+.
+Ejemplos Comerciales:
+Canon Selphy CP1300 (impresora compacta de sublimación): Enlace a Canon​
+CANON MÉXICO
+.
+Fujifilm ASK-400: Diseñada para negocios fotográficos, impresión rápida en pequeño formato Más detalles aquí​
+FUJIFILM
+.
+Recursos Adicionales:
+Diagramas y detalles técnicos suelen estar disponibles en los manuales de usuario proporcionados por los fabricantes, como Canon y Fujifilm.
 
 ### Contenido de: V:\lanbide\MF0954_2 Reparaci�n\Reparaci�n de Impresoras\14. Impresora 3D FDM\Impresora 3D FDM.md
 
@@ -397,44 +421,46 @@ Esto también podría afectar a otras características de tus prototipos o pieza
 
 ### Contenido de: V:\lanbide\MF0954_2 Reparaci�n\Reparaci�n de Impresoras\16.Impresora 3D SLS (Sinterizado Selectivo por L�ser)\Impresora 3D SLS.md
 
-# Impresora 3D SLA (Estereolitografía)
+# 🖨️ Impresora 3D SLS (Sinterizado Selectivo por Láser)
 
-## Referencia de Interés
-- [Guía Completa de Impresión SLA](https://www.3dnatives.com/en/sla-3d-printing-guide/)
+## 🌐 Referencia de Interés
+- [Guía Técnica de Impresión SLS](https://formlabs.com/es/blog/que-es-sinterizado-selectivo-laser/?srsltid=AfmBOorwTcVJo_wbDQWF5PEoU2M7WIEjCo5BXiGRe2GN7iBwA2Cik4JB)
 
-## Referencia Comercial
-- [Impresora Formlabs Form 3 en Amazon](https://www.amazon.com/Formlabs-3L-Desktop-Resin-Printer/dp/B07QZGJZ5Q)
+## 🛒 Referencia Comercial
+- [Impresora EOS P 396 en Página del Fabricante](https://it3d.com/tienda/colido-x3045/?gad_source=1&gclid=CjwKCAiAjeW6BhBAEiwAdKltMtY8AM46JIyE_jJLeaISA98nFkkutck5PmIW4IZu9iwsTC152HSkFhoCMYwQAvD_BwE)
 
-## Imagen Representativa
-![Impresora SLA](3-impresora-sla.jpg)
+## 🖼️ Imagen Representativa
+Impresora SLS![alt text](image-1.png)
 
-## Diagrama Técnico
-![Diagrama Técnico Impresora SLA](3-impresora-sla-diagrama.jpg)
+## 📐 Diagrama Técnico
+Diagrama Técnico Impresora SLS ![alt text](image.png)
 
-## Descripción
-La impresora 3D SLA (Estereolitografía) es un tipo de impresora que utiliza un láser UV para curar y solidificar resina líquida, creando objetos tridimensionales capa por capa. Se caracteriza por su alta precisión y capacidad de producir modelos con detalles muy finos.
+## 📝 Descripción
+La impresora 3D SLS (Sinterizado Selectivo por Láser) es una tecnología de fabricación aditiva que utiliza un láser de alta potencia para fundir selectivamente partículas de polvo, generalmente de materiales como nylon, metal, vidrio o cerámica. El láser sinteriza las partículas de polvo punto por punto, capa por capa, creando objetos tridimensionales complejos sin necesidad de estructuras de soporte.
 
-## Fecha de Invención
-- Invención: 1984 por Chuck Hull
-- Patente: 1986
-- Comercialización masiva: Década de 2010
+## 📅 Fecha de Invención
+- 🕰️ Invención: 1987 por Dr. Carl Deckard en la Universidad de Texas
+- 📜 Patente: 1989
+- 🚀 Comercialización masiva: Década de 2000
 
-## Ventajas y Desventajas
+## 📊 Ventajas y Desventajas
 
-### Ventajas
-- Alta precisión y resolución
-- Excelente detalle superficial
-- Ideal para prototipos y modelos pequeños
-- Amplio uso en joyería, odontología y prototipado
-- Superficie lisa y acabados de alta calidad
+### 👍 Ventajas
+- Alta libertad de diseño geométrico 🔷
+- Capacidad de producir piezas con geometrías complejas 🧩
+- No requiere estructuras de soporte 🏗️
+- Amplia variedad de materiales utilizables 🌈
+- Excelente resistencia mecánica de las piezas 💪
+- Ideal para prototipado rápido y producción de series cortas 🚀
 
-### Desventajas
-- Costo elevado de resinas
-- Proceso más lento que otras impresoras 3D
-- Materiales frágiles
-- Requiere post-procesamiento (curado UV)
-- Limitaciones en tamaño de impresión
-- Manejo de resinas requiere precauciones de seguridad
+### 👎 Desventajas
+- Costo elevado de equipamiento 💸
+- Alto consumo de energía ⚡
+- Acabado superficial menos suave 📉
+- Proceso más lento comparado con otras tecnologías 🐌
+- Requiere post-procesamiento para mejorar acabado 🔧
+- Manejo de polvo requiere precauciones de seguridad 🚨
+- Limitaciones en tamaño de impresión 📏
 
 ### Contenido de: V:\lanbide\MF0954_2 Reparaci�n\Reparaci�n de Impresoras\17. Impresora 3D DLP (Procesamiento Digital de Luz)\Impresora 3D DLP (Procesamiento Digital de Luz) .md
 
@@ -652,6 +678,48 @@ La impresión digital comenzaró a utilizarse por el año 1993. La idea de crear
 
 ### Contenido de: V:\lanbide\MF0954_2 Reparaci�n\Reparaci�n de Impresoras\27. Impresora de rotgrabado digital\Impresora de rotograbado digital (industrial).md
 
+# impresora de rotograbado digital
+
+
+![alt text](image-1.png)
+
+Lugar de origen:
+China
+Nombre de la marca:
+PRINTYOUNG
+Certificación:
+CE
+Número de modelo:
+HPRT-A
+Cantidad de orden mínima:
+1 fijado/sistemas
+Precio:
+Negociable
+Detalles de empaquetado:
+Embalado en cartón en primer lugar, y después reforzado con la caja de madera para el embalaje exter
+Tiempo de entrega:
+30 días laborables después de recibieron su pago
+Condiciones de pago:
+T / T o Western Union
+Capacidad de la fuente:
+30 conjuntos por mes
+![alt text](image-2.png)
+Existen varios tipos de impresión digital, cada uno con sus propias características y aplicaciones:
+
+Impresión de inyección de tinta (Inkjet): Utiliza pequeñas gotas de tinta proyectadas sobre el papel. Es ideal para tiradas cortas y trabajos que requieren una gran precisión en los detalles y colores vivos.
+Impresión láser: Utiliza un láser para formar una imagen cargada electrostáticamente en un tambor, que luego atrae y transfiere el tóner al papel. Es eficiente para impresiones rápidas y volúmenes moderados.
+Impresión LED: Similar a la impresión láser, pero utiliza diodos emisores de luz en lugar de un láser. Es conocida por su durabilidad y calidad constante.
+Impresión de sublimación de tinta: Utiliza calor para transferir la tinta de una cinta al papel, creando impresiones de alta calidad con transiciones de color suaves, comúnmente utilizada en textiles y fotografía.
+Impresión UV: Utiliza tintas que se secan o curan con luz ultravioleta, lo que permite imprimir sobre una amplia gama de sustratos no porosos, incluidos plásticos, vidrio y metal.
+Para más detalles sobre los tipos de impresión digital, visita Impresión Digital.
+![alt text](image-3.png)
+Impresión digital	Impresión offset
+Tiradas pequeñas	Tiradas grandes/medianas
+Arranque muy rápido, pero tiraje a una velocidad media-baja	 Arranque más costoso pero tiraje a alta velocidad
+Secado rápido	Más tiempo de secado
+Formato máximo: 50 x 70 mm	Formato máximo: 120 x 160 mm
+Cada hoja puede ser distinta	Todas las hojas iguales
+Impresión a través de inyección de tinta e impresión láser	Impresión a través de rodillos y planchas
 
 ### Contenido de: V:\lanbide\MF0954_2 Reparaci�n\Reparaci�n de Impresoras\29 . Impresora POS\29. Impresora POS (punto de venta, generalmente t�rmica) .md
 
@@ -781,6 +849,45 @@ A menudo necesitan papel continuo o formularios específicos, lo que puede limit
 ### En resumen:
  las impresoras de línea son herramientas altamente eficientes para aplicaciones específicas, pero no son ideales para necesidades de impresión modernas que requieren alta resolución, gráficos, o flexibilidad en los formatos de impresión.
 
+### Contenido de: V:\lanbide\MF0954_2 Reparaci�n\Reparaci�n de Impresoras\30.Impresora para tarjetas pl�sticas (PVC)\Impresora para tarjetas pl�sticas (PVC).md
+
+# 💳 Impresora para Tarjetas Plásticas (PVC)
+
+## 🌐 Referencia de Interés
+- [Tecnología de Impresión de Tarjetas](https://www.sipcards.es/impresoras-entrust?gad_source=1&gclid=CjwKCAiAjeW6BhBAEiwAdKltMpgyL0yBgbkQ-sB-tZ8VTpZ4bKNcl4SQwXIJ8wWBzkP0Zs-dUx952hoC3_kQAvD_BwE)
+
+## 🛒 Referencia Comercial
+- [Impresora para Tarjetas Plásticas (PVC ](https://evolisprint.com/impresoras-de-tarjetas/10-evolis-zenius-expert-5712505462300.html?gad_source=1&gclid=CjwKCAiAjeW6BhBAEiwAdKltMsGRHQGLq9QBS_fHx45VvzhMux_8hs1CXFge0tIMplHq2mFjnph3uhoCJYAQAvD_BwE0)
+
+## 🖼️ Imagen Representativa
+Impresora de Tarjetas(![alt text](image.png))
+
+## 📐 Diagrama Técnico
+Diagrama Técnico Impresora de Tarjetas![alt text](image-1.png))
+
+## 📝 Descripción
+La impresora para tarjetas plásticas es un dispositivo especializado en la impresión de tarjetas de identificación, credenciales, tarjetas de membresía, y otros tipos de tarjetas de PVC o materiales similares. Diseñada para imprimir con alta calidad y durabilidad en superficies rígidas.
+
+## 📅 Fecha de Invención
+- 🕰️ Desarrollo inicial: Década de 1990
+- 🚀 Comercialización masiva: Principios de 2000
+
+## 📊 Ventajas y Desventajas
+
+### 👍 Ventajas
+- Impresión de alta calidad en tarjetas plásticas 💯
+- Capacidad de imprimir en color o monocromático 🌈
+- Opciones de personalización 🎨
+- Útil para credenciales, tarjetas de acceso, identificaciones 🔑
+- Tecnologías de impresión térmica o transferencia térmica 🔥
+
+### 👎 Desventajas
+- Alto costo inicial de equipamiento 💸
+- Consumibles costosos 💳
+- Mantenimiento especializado 🔧
+- Limitaciones de tamaño de impresión 📏
+- Requiere entrenamiento específico 📚
+
 ### Contenido de: V:\lanbide\MF0954_2 Reparaci�n\Reparaci�n de Impresoras\31. Impresora port�til o m�vil(impresora de bolsillo)\Impresora port�til o m�vil (impresora de bolsillo).md
 
 # Impresora portátil o móvil (impresora de bolsillo)
@@ -886,6 +993,37 @@ Las funciones avanzadas de seguridad comenzaron a implementarse en impresoras em
     - Necesidad de actualizaciones frecuentes para mantenerse al día con las amenazas emergentes.
 ---
 [⬅️ Volver al inicio](#impresora-con-funciones-de-seguridad-y-gestión-avanzada-cifrado-autenticación)
+
+### Contenido de: V:\lanbide\MF0954_2 Reparaci�n\Reparaci�n de Impresoras\36.Impresora fotogr�fica mini (formato reducido, ej. 10x15 cm)\Impresora fotogr�fica mini.md
+
+## Impresora Fotográfica Mini (Formato Reducido, Ej. 10x15 cm)
+
+## Referencia de Internet:
+ Puedes consultar detalles técnicos y opciones disponibles en esta categoría en sitios como Xataka, donde se analizan modelos de mini impresoras fotográficas portátiles de varias marcas【28】【29】.
+![alt text](image.png)
+Referencia a impresora comercial:
+
+## Modelo destacado:  
+Canon Zoemini o la Kodak Mini 2 Retro, disponibles en Amazon o tiendas como FNAC y MediaMarkt. Estos modelos imprimen fotos de alta calidad con tecnología ZINK y Bluetooth para conexión móvil【29】【30】.
+Imagen Representativa: Incluye una imagen de impresoras como la Xiaomi Mi Portable Photo Printer o la HP Sprocket, que destacan por su diseño compacto y portabilidad【29】.
+
+##Diagrama Técnico
+: Generalmente, estas impresoras utilizan tecnología ZINK (Zero Ink), donde el papel contiene capas de químicos que reaccionan térmicamente para generar colores sin usar cartuchos tradicionales【29】.
+![alt text](image-1.png)
+## Descripción:
+![alt text](image-2.png)
+Estas impresoras portátiles están diseñadas para imprimir fotos en formato reducido (como 2x3 pulgadas). Utilizan conexiones inalámbricas (Bluetooth o NFC) y apps móviles para operar. Son ideales para usos personales y momentos sociales debido a su tamaño compacto y facilidad de uso.
+Fecha de Invención: Aunque las impresoras ZINK comenzaron a ganar popularidad en la última década, su tecnología fue desarrollada alrededor del año 2005, con comercialización más amplia a partir de 2010【29】.
+
+## Ventajas y Desventajas:
+
+## Ventajas:
+Portabilidad extrema y diseño compacto.
+Eliminación de tinta gracias a la tecnología ZINK.
+Facilidad de uso mediante apps móviles.
+Desventajas:
+Tamaño de impresión limitado.
+Costo del papel fotográfico específico puede ser elevado.
 
 ### Contenido de: V:\lanbide\MF0954_2 Reparaci�n\Reparaci�n de Impresoras\38. Impresora de etiquetas y c�digos de barras (t�rmicas, uso comercial)\Impresora de etiquetas y c�digos de barras (t�rmicas, uso comercial).md
 
@@ -1081,6 +1219,35 @@ https://www.correct-pack.com/es/a-news-what-is-an-inkjet-thermal-printer
 ### Referencia comercial :
 https://adnid.com/impresoras-de-etiquetas-tecnologia-color/impresoras-de-etiquetas-color-epson-colorworks/epson-colorworks-c7500g?utm_term=&utm_campaign=SB+-+Shopping&utm_source=adwords&utm_medium=ppc&hsa_acc=6715475934&hsa_cam=21779296476&hsa_grp=169395634718&hsa_ad=716117472874&hsa_src=g&hsa_tgt=pla-2296119726685&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiA6t-6BhA3EiwAltRFGC2G6GPJ8g0KW3OrrLlockho4fRo2Dz3lLzr6tVdWE3cT9TqGpnBHhoCxRsQAvD_BwE
 
+### Contenido de: V:\lanbide\MF0954_2 Reparaci�n\Reparaci�n de Impresoras\5. Impresora de inyecci�n de tinta con cabezales piezoel�ctricos\Impresora de in.md
+
+Documento para Impresora de Inyección de Tinta con Cabezales Piezoeléctricos
+1. Referencia a página de interés
+Información técnica sobre los cabezales piezoeléctricos y su funcionamiento: Arkiplot【12】.
+2. Referencia a impresora comercial
+Ejemplo comercial: Impresoras de Roland DG como la serie VersaSTUDIO BN2, que incluye cabezales piezoeléctricos para impresión de alta calidad y versatilidad. Más detalles en Roland DG.
+3. Imagen representativa
+Archivo sugerido: 01_inyeccion_piezoelectricos.jpg
+Fuente recomendada: Captura de una impresora Epson o Roland DG que incluya esta tecnología.![alt text](image-5.png)
+4. Diagrama técnico
+Representación técnica del funcionamiento de los cabezales piezoeléctricos: Disponible en la página de Arkiplot sobre tecnologías de impresión【12】![alt text](image-6.png).
+5. Descripción de la impresora
+Las impresoras con cabezales piezoeléctricos funcionan mediante la vibración controlada de cristales piezoeléctricos. Este método permite expeler gotas de tinta con precisión, pudiendo ajustar su tamaño para lograr gradientes suaves y detalles finos. Estas impresoras son ideales para aplicaciones industriales y artísticas debido a su capacidad de trabajar con tintas solventes, curadas por UV y ecosolventes. Ofrecen una calidad de impresión excepcional y son muy utilizadas en la creación de carteles, etiquetas y productos gráficos avanzados【11】【12】【13】.
+
+6. Fecha de invención/aparición
+Los cabezales piezoeléctricos comenzaron a implementarse en impresoras digitales de gran formato durante la década de 1990, marcando una revolución en la impresión industrial【12】.
+
+7. Ventajas y desventajas
+Ventajas:
+
+Gotas de tinta de tamaño variable para una mayor calidad en degradados.
+Compatibilidad con una amplia variedad de tintas y superficies.
+Durabilidad y alta velocidad de impresión【12】【13】.
+Desventajas:
+
+Costo inicial elevado en comparación con otras tecnologías.
+Mantenimiento más especializado requerido debido a la complejidad de los cabezales【12】.
+
 ### Contenido de: V:\lanbide\MF0954_2 Reparaci�n\Reparaci�n de Impresoras\5. Impresora de inyecci�n de tinta con cabezales piezoel�ctricos\Impresora de inyecci�n de tinta con cabezales piezoel�ctricos .md
 
 ![alt text](image.png)
@@ -1213,42 +1380,42 @@ En estas impresoras debe calentarse el fusor al empezar a imprimir por lo que la
 
 ### Contenido de: V:\lanbide\MF0954_2 Reparaci�n\Reparaci�n de Impresoras\8.Impresora LED\impresora-led.md
 
-# Impresora LED
+# 💡 Impresora LED
 
-## Referencia de Interés
+## 🌐 Referencia de Interés
 - [Tecnología de Impresión LED](https://www.xerox.es/oficina/latest/W74WP-01.PDF)
 
-## Referencia Comercial
+## 🛒 Referencia Comercial
 - [Impresora LED  en Amazon](https://www.amazon.es/Brother-MFCL2800DW-Impresora-multifunci%C3%B3n-autom%C3%A1tica/dp/B0CK2PVJSR/ref=sr_1_8?adgrpid=59913256687&dib=eyJ2IjoiMSJ9.qZb27d7ICzwRYr8Cx_c0VwG8O7hMT6SNq-uHPiYcXe9WKGYYPm1jjkCEfC4WwDkrqVMHmU4etnOQo6L1I51j6uGol8CPnCeH5qxl0iMVN0ZTwuKDXkHPXvmXs24bmtg_RV5uKEbLW36P59NH8VqTv5QlTvx292WBHkmiADEvHN2_GjaggEvhDLtdVQuSRM9VKBN5D0gQHNdXGjg-OKspq87NuILVal1qCoLt_6zfnD8RoVZq2hqvSDty9KB44W-q0yWPg6NpzF24nydYxrPIRaTggAZ4DuX-JxCSMipEogY.-IjJzQGx7TGyz1IwFzXCnjwxBmLKXpq9sNvZnrqj5js&dib_tag=se&hvadid=601315053271&hvdev=c&hvlocphy=9219525&hvnetw=g&hvqmt=b&hvrand=15111122160265364370&hvtargid=kwd-296894513925&hydadcr=29770_2381694&keywords=impresora+l%C3%A1ser&nsdOptOutParam=true&qid=1733941014&sr=8-8)
 
-## Imagen Representativa
+## 🖼️ Imagen Representativa
 Impresora LED![alt text](image-1.png)
 
-## Diagrama Técnico
+## 📐 Diagrama Técnico
 Diagrama Técnico Impresora LED![alt text](image.png)
 
-## Descripción
-La impresora LED es un tipo de impresora digital que utiliza diodos emisores de luz (LED) en lugar de un láser tradicional para proyectar la imagen a imprimir en un tambor fotosensible. Esta tecnología permite una impresión rápida y de alta calidad, siendo especialmente eficiente para documentos de texto y gráficos simples.
+## 📝 Descripción
+La impresora LED es un tipo de impresora digital que utiliza diodos emisores de luz (LED) en lugar de un láser tradicional para proyectar la imagen a imprimir en un tambor fotosensible.
 
-## Fecha de Invención
-- Desarrollo inicial: Década de 1980
-- Comercialización: Principios de 1990
+## 📅 Fecha de Invención
+- 🕰️ Desarrollo inicial: Década de 1980
+- 🚀 Comercialización: Principios de 1990
 
-## Ventajas y Desventajas
+## 📊 Ventajas y Desventajas
 
-### Ventajas
-- Mayor velocidad de impresión comparada con impresoras láser tradicionales
-- Menos piezas móviles, lo que aumenta la fiabilidad
-- Componentes más compactos y ligeros
-- Menor consumo de energía
-- Buena calidad de impresión para texto y gráficos
+### 👍 Ventajas
+- Mayor velocidad de impresión 🚄
+- Menos piezas móviles, aumenta fiabilidad 🛡️
+- Componentes más compactos y ligeros 🏋️‍♀️
+- Menor consumo de energía ⚡
+- Buena calidad de impresión para texto y gráficos 📄
 
-### Desventajas
-- Calidad de impresión de imágenes menos detallada que láser
-- Generalmente monocromáticas
-- Costo inicial más alto que impresoras matriciales
-- Limitaciones para impresión de alta resolución fotográfica
-- Mantenimiento más especializado
+### 👎 Desventajas
+- Calidad de impresión de imágenes menos detallada 🖼️
+- Generalmente monocromáticas ⚫
+- Costo inicial más alto 💸
+- Limitaciones para impresión de alta resolución fotográfica 📷
+- Mantenimiento más especializado 🔧
 
 ### Contenido de: V:\lanbide\MF0954_2 Reparaci�n\Reparaci�n de Impresoras\Impresora de etiquetas\Impresora de etiquetas.md
 
