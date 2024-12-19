@@ -1,42 +1,35 @@
-La impresora fotográfica dedicada, basada en tecnologías como inkjet (chorro de tinta) o sublimación de tinta, está diseñada para imprimir fotografías con calidad profesional. Estos dispositivos son utilizados por fotógrafos, estudios y usuarios domésticos que buscan resultados de alta calidad para álbumes, eventos o negocios de impresión instantánea.
+# Impresora Fotográfica Dedicada (Basada en Inkjet o Sublimación)
+
+## 1. Referencia de Internet
+- [Tecnología de impresoras fotográficas - Wikipedia](https://es.wikipedia.org/wiki/Impresi%C3%B3n_fotogr%C3%A1fica)
+- [Impresoras fotográficas dedicadas - Canon](https://www.canon.es/printers/selphy-series/)
+
+## 2. Referencia a Impresora Comercial
+- [Canon SELPHY CP1300 - Amazon](https://www.amazon.es/dp/B074MG1VB7)
+- [Epson SureColor SC-P700 - Página del fabricante](https://www.epson.es/products/printers/large-format/epson-surecolor-sc-p700)
+
+## 3. Imagen Representativa
 ![alt text](image.png)
-Descripción:
-Las impresoras fotográficas dedicadas como la Canon Selphy CP1300 (sublimación térmica) y modelos similares ofrecen impresión compacta y rápida, con funciones como conectividad inalámbrica, durabilidad de hasta 100 años de las impresiones en álbumes, y compatibilidad con aplicaciones móviles. Estas impresoras permiten tamaños desde tarjetas pequeñas hasta postales de 4x6 pulgadas.
 
-Por otro lado, en tecnología de sublimación térmica, como la Citizen CX-02, se utiliza transferencia térmica para producir imágenes con gran estabilidad de color y resistencia a la decoloración, ideal para fotografía de eventos o kioscos fotográficos​
-ARKIPLOT
-​
-FUJIFILM
-​
-CANON MÉXICO
-.
+## 4. Diagrama Técnico
 ![alt text](image-1.png)
-Fecha de Invención:
-La tecnología inkjet fue desarrollada comercialmente en los años 70, mientras que la sublimación térmica apareció en el mercado en las décadas de 1980 y 1990, adaptándose luego para impresión fotográfica.
-Ventajas y Desventajas:
-Ventajas:
 
-Alta calidad fotográfica con colores vibrantes y precisión de detalles.
-Modelos portátiles y fáciles de usar.
-Durabilidad de las impresiones frente a la decoloración.
-Compatibles con smartphones y cámaras para impresión instantánea.
-Desventajas:
+## 5. Descripción
+Las **impresoras fotográficas dedicadas** están diseñadas específicamente para producir impresiones de alta calidad, principalmente de fotografías. Estas pueden estar basadas en tecnología de inyección de tinta (inkjet) o sublimación térmica. Las impresoras fotográficas inkjet usan tintas especiales, mientras que las de sublimación funcionan transfiriendo capas de tinte sólido al papel mediante calor.
 
-Costos elevados en consumibles (papel y tintas específicas).
-Limitaciones en el tamaño máximo de impresión.
-Velocidad de impresión relativamente lenta en algunos casos​
-ARKIPLOT
-​
-FUJIFILM
-​
-CANON MÉXICO
-.
-Ejemplos Comerciales:
-Canon Selphy CP1300 (impresora compacta de sublimación): Enlace a Canon​
-CANON MÉXICO
-.
-Fujifilm ASK-400: Diseñada para negocios fotográficos, impresión rápida en pequeño formato Más detalles aquí​
-FUJIFILM
-.
-Recursos Adicionales:
-Diagramas y detalles técnicos suelen estar disponibles en los manuales de usuario proporcionados por los fabricantes, como Canon y Fujifilm.
+Son ampliamente utilizadas por fotógrafos profesionales y aficionados avanzados para obtener resultados que rivalizan con los laboratorios de impresión tradicionales.
+
+## 6. Fecha de Invención
+La impresión fotográfica por sublimación apareció comercialmente en **1981**, mientras que las impresoras inkjet fotográficas comenzaron a popularizarse a finales de los años 90.
+
+## 7. Ventajas y Desventajas
+### Ventajas
+- Calidad de impresión excepcional, especialmente en fotografías.
+- Opciones compactas y portátiles (como la Canon SELPHY).
+- Larga durabilidad de las impresiones, resistente a decoloraciones.
+- Compatible con papeles especializados para fotos.
+
+### Desventajas
+- Coste elevado del papel y consumibles.
+- Limitación a tamaños de impresión específicos (modelos compactos).
+- Velocidad de impresión más lenta en modelos de alta calidad.

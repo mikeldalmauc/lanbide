@@ -45,7 +45,6 @@ Crear un documento para cada tipo de impresora entre las asignadas más abajo.
    5. Descripción de la impresora.
    6. Fecha de invención (si es posible) sino fecha de aparición en el mercado sino fecha aproximada.
    7. Ventajas y desventajas.
-[adsd]()
 
 [ver ejemplo para impresoras de etiquetas industriales.](./Impresora%20de%20etiquetas/Impresora%20de%20etiquetas.md)
 
@@ -54,12 +53,12 @@ Crear un documento para cada tipo de impresora entre las asignadas más abajo.
 - Abellah (5 números): 2, 9, 21, 23, 37
 - Ingrid (4 números): 6, ✅10, 14, 35, 39
 - Mauricio (4 números): ✅3, ✅7, ✅15, ✅32
-- Mohamed (4 números): 1, 8, 16, 30
+- Mohamed (4 números): ✅1, ✅8, ✅16, ✅30
 - Moncef (4 números): ✅4, ✅12, ✅17, ✅29
-- Bilal (4 números): 5, 13, 27, 36
+- Bilal (4 números): ✅5, ✅13, ✅27, ✅36
 - Oier (4 números): ✅11, ✅20, ✅22, ✅34
 - Josue (4 números): ✅18, ✅25, ✅31, ✅38
-- Annia (4 números): 19, 24, 26, 33
+- Annia (4 números): ✅19, 24, 26, 33
 - Mikel: Timeline
 
 # Tipos de impresoras :fax:
@@ -68,25 +67,25 @@ A continuación se presenta una clasificación amplia de distintos tipos de impr
 
 ### Por Tecnología de Impresión
 
-1. Impresora matricial (dot matrix)  
+1. [Impresora matricial (dot matrix) ](<1.Impresora matricial (dot matrix)/Impresora matricial (dot matrix).md>)
 2. Impresora de margarita (daisy wheel)  
 3. [Impresora de línea](<3. Impresora de Linea/Impreaora de Linea.md>)
 4. [Impresora de inyección de tinta con cabezales térmicos ](<4. Impresora de inyección de tinta con cabezales termicos/impresora de inyección de tinta con cabezales.md>)
-5. Impresora de inyección de tinta con cabezales piezoeléctricos  
+5. [Impresora de inyección de tinta con cabezales piezoeléctricos](<5. Impresora de inyección de tinta con cabezales piezoeléctricos/Impresora de inyección de tinta con cabezales piezoeléctricos .md>)
 6. Impresora láser monocromo  
 7. Impresora láser a color  
-8. Impresora LED  
+8. [Impresora LED](<8.Impresora LED/impresora-led.md>)
 9. [Impresora térmica directa](<10. Impresora de transferencia térmica/Impresora de transferencia térmica.md>)
 10. Impresora de transferencia térmica  
 11. [Impresora de sublimación de tinta](<11. Impresoras de sublimación/Impresoras de sublimación.md>)  
 12. [Impresora de tinta sólida (solid ink)](<12. Impresora de tinta sólida  (solid ink )/Impresora de tinta sólida (solid ink).md>)
-13. Impresora fotográfica dedicada (basada en inkjet o sublimación)  
+13. [Impresora fotográfica dedicada (basada en inkjet o sublimación)](<13.Impresora fotográfica dedicada (basada en inkjet o sublimación)/Impresora fotográfica dedicada.md>)
 14. Impresora 3D FDM (Modelado por Deposición Fundida)  
 15. [Impresora 3D SLA (Estereolitografía)](<15. Impresora 3D SLA (Estere  olitografía)/Impresora 3D SLA (Estereolitografía).md>)
-16. Impresora 3D SLS (Sinterizado Selectivo por Láser)  
+16. [Impresora 3D SLS (Sinterizado Selectivo por Láser)](<16.Impresora 3D SLS (Sinterizado Selectivo por Láser)/Impresora 3D SLS.md>)
 17. [Impresora 3D DLP (Procesamiento Digital de Luz)](<17. Impresora 3D DLP (Procesamiento Digital de Luz)/Impresora 3D DLP (Procesamiento Digital de Luz) .md>)
 18. [Impresora 3D PolyJet](<18. Impresora-3D-PolyJet/Impresora-3D-PolyJet.md>) 
-19. Impresora 3D Binder Jetting  
+19. [Impresora 3D Binder Jetting](<19.Impresora  3D Blinder Jetting/19.Impresora 3D Blinder Jetting.md>)
 20. [Impresora 3D metálica (DMLS, EBM)](<20. Impresora 3D Metálica/Impresora 3D Metálica.md>)
 
 ---
@@ -99,10 +98,10 @@ A continuación se presenta una clasificación amplia de distintos tipos de impr
 24. Impresora industrial/comercial de gran formato (plotter)  
 25. [Impresora offset digital (industrial)](<25. Impresora offset digital (industrial)/Impresora-offset-digital-(industrial).md>)
 26. Impresora de flexografía digital (industrial)  
-27. Impresora de rotograbado digital (industrial)  
+27. [Impresora de rotograbado digital (industrial)](<27. Impresora de rotgrabado digital/Impresora de rotograbado digital (industrial).md>)
 28. [Impresora de etiquetas y códigos de barras (industrial/comercial)](./Impresora%20de%20etiquetas/Impresora%20de%20etiquetas.md)  
 29. [Impresora POS (punto de venta, generalmente térmica) ](<29 . Impresora POS/29. Impresora POS (punto de venta, generalmente térmica) .md>)
-30. Impresora para tarjetas plásticas (PVC)  
+30. [Impresora para tarjetas plásticas (PVC) ](<30.Impresora para tarjetas plásticas (PVC)/Impresora para tarjetas plásticas (PVC).md>) 
 31. [Impresora portátil o móvil (impresoras de bolsillo)](<31. Impresora portátil o móvil(impresora de bolsillo)/Impresora portátil o móvil (impresora de bolsillo).md>)
 
 ---

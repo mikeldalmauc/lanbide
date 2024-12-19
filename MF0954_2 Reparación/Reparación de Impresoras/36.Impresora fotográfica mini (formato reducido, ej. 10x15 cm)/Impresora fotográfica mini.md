@@ -1,28 +1,36 @@
-## Impresora Fotográfica Mini (Formato Reducido, Ej. 10x15 cm)
+# Impresora Fotográfica Mini (Formato Reducido, ej. 10x15 cm)
 
-## Referencia de Internet:
- Puedes consultar detalles técnicos y opciones disponibles en esta categoría en sitios como Xataka, donde se analizan modelos de mini impresoras fotográficas portátiles de varias marcas【28】【29】.
-![alt text](image.png)
-Referencia a impresora comercial:
+## 1. Referencia de Internet
+- [Impresoras fotográficas portátiles - Wikipedia](https://es.wikipedia.org/wiki/Impresora_fotogr%C3%A1fica)
+- [Impresoras mini para fotos - HP](https://www.hp.com/es-es/shop/hp-sprocket-portable-printers.html)
 
-## Modelo destacado:  
-Canon Zoemini o la Kodak Mini 2 Retro, disponibles en Amazon o tiendas como FNAC y MediaMarkt. Estos modelos imprimen fotos de alta calidad con tecnología ZINK y Bluetooth para conexión móvil【29】【30】.
-Imagen Representativa: Incluye una imagen de impresoras como la Xiaomi Mi Portable Photo Printer o la HP Sprocket, que destacan por su diseño compacto y portabilidad【29】.
+## 2. Referencia a Impresora Comercial
+- [HP Sprocket Select - Amazon](https://www.amazon.es/dp/B07XLWF7N1)
+- [Canon SELPHY Square QX10 - Página del fabricante](https://www.canon.es/cameras/canon-selphy-square-qx10/)
 
-##Diagrama Técnico
-: Generalmente, estas impresoras utilizan tecnología ZINK (Zero Ink), donde el papel contiene capas de químicos que reaccionan térmicamente para generar colores sin usar cartuchos tradicionales【29】.
-![alt text](image-1.png)
-## Descripción:
-![alt text](image-2.png)
-Estas impresoras portátiles están diseñadas para imprimir fotos en formato reducido (como 2x3 pulgadas). Utilizan conexiones inalámbricas (Bluetooth o NFC) y apps móviles para operar. Son ideales para usos personales y momentos sociales debido a su tamaño compacto y facilidad de uso.
-Fecha de Invención: Aunque las impresoras ZINK comenzaron a ganar popularidad en la última década, su tecnología fue desarrollada alrededor del año 2005, con comercialización más amplia a partir de 2010【29】.
+## 3. Imagen Representativa
+![alt text](image-3.png)
 
-## Ventajas y Desventajas:
+## 4. Diagrama Técnico
+![alt text](image-4.png)
 
-## Ventajas:
-Portabilidad extrema y diseño compacto.
-Eliminación de tinta gracias a la tecnología ZINK.
-Facilidad de uso mediante apps móviles.
-Desventajas:
-Tamaño de impresión limitado.
-Costo del papel fotográfico específico puede ser elevado.
+## 5. Descripción
+Las **impresoras fotográficas mini** están diseñadas para imprimir fotografías de tamaño reducido (por ejemplo, 10x15 cm o más pequeñas) de manera rápida y portátil. Estas impresoras suelen ser compactas, inalámbricas y funcionan a través de aplicaciones móviles, permitiendo imprimir directamente desde smartphones o cámaras digitales.
+
+Pueden usar tecnologías como sublimación térmica o tinta ZINK (Zero Ink), eliminando la necesidad de cartuchos tradicionales. Estas impresoras son ideales para uso recreativo y personal.
+
+## 6. Fecha de Invención
+Las impresoras fotográficas portátiles comenzaron a popularizarse en los **años 2010**, con avances significativos en tecnologías inalámbricas y formatos compactos.
+
+## 7. Ventajas y Desventajas
+### Ventajas
+- Portabilidad y facilidad de uso.
+- Compatibilidad con dispositivos móviles.
+- Impresión rápida y directa.
+- Sin necesidad de consumibles voluminosos en tecnologías como ZINK.
+
+### Desventajas
+- Limitadas a tamaños de impresión pequeños.
+- Coste por impresión elevado en comparación con otros métodos.
+- Calidad de impresión inferior a impresoras fotográficas profesionales.
+- Dependen de dispositivos móviles o aplicaciones específicas para funcionar.

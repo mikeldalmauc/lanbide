@@ -1,42 +1,35 @@
-# impresora de rotograbado digital
+# Impresora de Rotograbado Digital (Industrial)
 
+## 1. Referencia de Internet
+- [Tecnología de rotograbado digital - Wikipedia](https://es.wikipedia.org/wiki/Rotograbado)
+- [Impresoras de rotograbado industrial - BOBST](https://www.bobst.com/rotogravure-printing/)
 
-![alt text](image-1.png)
+## 2. Referencia a Impresora Comercial
+- [Impresora BOBST RS 5002 - Página del fabricante](https://www.bobst.com/products/rotogravure-printing/rs-5002/)
+- [Ejemplo de impresoras industriales de rotograbado - Amazon](https://www.amazon.com/industrial-rotogravure-printer)
 
-Lugar de origen:
-China
-Nombre de la marca:
-PRINTYOUNG
-Certificación:
-CE
-Número de modelo:
-HPRT-A
-Cantidad de orden mínima:
-1 fijado/sistemas
-Precio:
-Negociable
-Detalles de empaquetado:
-Embalado en cartón en primer lugar, y después reforzado con la caja de madera para el embalaje exter
-Tiempo de entrega:
-30 días laborables después de recibieron su pago
-Condiciones de pago:
-T / T o Western Union
-Capacidad de la fuente:
-30 conjuntos por mes
-![alt text](image-2.png)
-Existen varios tipos de impresión digital, cada uno con sus propias características y aplicaciones:
+## 3. Imagen Representativa
+![alt text](image-4.png)
 
-Impresión de inyección de tinta (Inkjet): Utiliza pequeñas gotas de tinta proyectadas sobre el papel. Es ideal para tiradas cortas y trabajos que requieren una gran precisión en los detalles y colores vivos.
-Impresión láser: Utiliza un láser para formar una imagen cargada electrostáticamente en un tambor, que luego atrae y transfiere el tóner al papel. Es eficiente para impresiones rápidas y volúmenes moderados.
-Impresión LED: Similar a la impresión láser, pero utiliza diodos emisores de luz en lugar de un láser. Es conocida por su durabilidad y calidad constante.
-Impresión de sublimación de tinta: Utiliza calor para transferir la tinta de una cinta al papel, creando impresiones de alta calidad con transiciones de color suaves, comúnmente utilizada en textiles y fotografía.
-Impresión UV: Utiliza tintas que se secan o curan con luz ultravioleta, lo que permite imprimir sobre una amplia gama de sustratos no porosos, incluidos plásticos, vidrio y metal.
-Para más detalles sobre los tipos de impresión digital, visita Impresión Digital.
-![alt text](image-3.png)
-Impresión digital	Impresión offset
-Tiradas pequeñas	Tiradas grandes/medianas
-Arranque muy rápido, pero tiraje a una velocidad media-baja	 Arranque más costoso pero tiraje a alta velocidad
-Secado rápido	Más tiempo de secado
-Formato máximo: 50 x 70 mm	Formato máximo: 120 x 160 mm
-Cada hoja puede ser distinta	Todas las hojas iguales
-Impresión a través de inyección de tinta e impresión láser	Impresión a través de rodillos y planchas
+## 4. Diagrama Técnico
+![alt text](image-5.png)
+
+## 5. Descripción
+La **impresora de rotograbado digital** es una solución industrial avanzada que utiliza cilindros grabados para transferir tinta directamente al material a imprimir. Es ampliamente utilizada en la producción de envases, etiquetas y revistas de alta calidad. 
+
+En las versiones digitales, se combina la tecnología tradicional de rotograbado con sistemas de control informatizados, lo que permite mayor precisión y flexibilidad en la producción. Estas impresoras son ideales para tiradas largas debido a su velocidad y capacidad para manejar materiales como plástico, papel y aluminio.
+
+## 6. Fecha de Invención
+El rotograbado se desarrolló en el **siglo XIX**, mientras que las versiones digitales comenzaron a aparecer a finales del **siglo XX**.
+
+## 7. Ventajas y Desventajas
+### Ventajas
+- Alta calidad y detalle en la impresión.
+- Ideal para tiradas largas y materiales industriales.
+- Capacidad de impresión a alta velocidad.
+- Compatible con una amplia variedad de sustratos.
+
+### Desventajas
+- Coste inicial elevado debido a la complejidad de los equipos.
+- Requiere personal especializado para su operación.
+- No es eficiente para tiradas cortas debido a los tiempos de preparación.
