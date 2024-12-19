@@ -85,7 +85,7 @@ A continuación se presenta una clasificación amplia de distintos tipos de impr
 16. [Impresora 3D SLS (Sinterizado Selectivo por Láser)](<16.Impresora 3D SLS (Sinterizado Selectivo por Láser)/Impresora 3D SLS.md>)
 17. [Impresora 3D DLP (Procesamiento Digital de Luz)](<17. Impresora 3D DLP (Procesamiento Digital de Luz)/Impresora 3D DLP (Procesamiento Digital de Luz) .md>)
 18. [Impresora 3D PolyJet](<18. Impresora-3D-PolyJet/Impresora-3D-PolyJet.md>) 
-19. [Impresora 3D Binder Jetting](<19.Impresora  3D Blinder Jetting/19.Impresora 3D Blinder Jetting.md>)
+19. [Impresora 3D Binder Jetting ](<19.Impresora  3D Blinder Jetting/19.Impresora 3D Blinder Jetting.md>)
 20. [Impresora 3D metálica (DMLS, EBM)](<20. Impresora 3D Metálica/Impresora 3D Metálica.md>)
 
 ---
