@@ -26,3 +26,4 @@ Se inventó en los Años 70.
 - **desventajas:** olor intenso, baja durabilidad, monocromáticas, requieren papel especial.
 
 Imprime en formato de tickets o recibos.
+

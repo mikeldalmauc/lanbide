@@ -16,7 +16,7 @@ La impresión digital offset es un proceso avanzado utilizado en el sector de la
 
 ## Fecha de Lanzamiento
 
-La impresión digital comenzaró a utilizarse por el año 1993. La idea de crear una prensa de impresión digital comenzó con el desarrollo de la computadora.
+La impresión digital comenzaró a utilizarse a principios de la década de 1990. La idea de crear una prensa de impresión digital comenzó con el desarrollo de la computadora.
 
 ## Ventajas y Desventajas 
 

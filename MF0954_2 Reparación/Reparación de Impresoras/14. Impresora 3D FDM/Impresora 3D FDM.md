@@ -28,3 +28,4 @@
    **Ventajas:** precisas, capacidad 3D, gran soporte de la comunidad.
    
    **Desventajas:** caras, lentas, difíciles de mantener, requieren conocimiento de programas complejos para operarse (Blender, etc.)
+

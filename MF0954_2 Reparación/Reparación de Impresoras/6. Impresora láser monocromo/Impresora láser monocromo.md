@@ -31,3 +31,4 @@ Ventajas y desventajas.
 # Formato
 
 Imprime formatos estándar según normativa ISO 216: DIN A4, DIN A3... (véase punto 35)
+
